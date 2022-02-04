@@ -1,0 +1,72 @@
+body{
+    background-color: #5a5a5a;
+}
+
+a{
+    text-decoration: none;
+    color: #757575;
+
+}
+a:hover{
+    color: #757575;
+}
+
+.navbar{
+    margin-bottom: 50px;
+    background-color: #262626;
+}
+
+#main-content{
+    background-color: white; 
+    height: 1500px; 
+    margin-bottom: 50px; 
+    box-shadow: 10px 10px 10px 10px #262626; 
+    border-radius: 20px;
+}
+
+#welcome > h5{
+    font-family: 'Raleway', sans-serif;
+    text-align: center; 
+    padding-top: 35px;
+}
+
+#welcome-1{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2.5em; 
+    font-weight: 700;
+}
+
+#welcome-2{
+    font-size: 00.75em; 
+    margin-top: -7px;
+}
+
+#carouselExampleIndicators{
+    margin: 50px 50px 150px 50px;
+}
+
+#col-left{
+    padding: 50px;
+}
+
+#razorpay{
+    text-align: center;
+}
+
+#col-right{
+    text-align: center;
+}
+
+#ds{
+    font-size: 0.75em; 
+    margin-left: 38px;
+}
+
+#info{
+    margin-right: 30px;
+}
+
+#copyright{
+    margin-top: 40px; 
+    background-color: rgba(0, 0, 0, 0.05);
+}
